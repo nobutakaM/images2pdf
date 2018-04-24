@@ -1,2 +1,6 @@
 # images2pdf
-画像ファイルをpdfファイルに変換
+convert images to pdf per directory
+
+```
+$python images2pdf.py (directory)
+```
